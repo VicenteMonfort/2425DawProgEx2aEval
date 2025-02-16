@@ -16,7 +16,8 @@ En el juego se irán atacando alternativamente y **de manera automática** hasta
 ## Resolución técnica
 - Realiza las clases adecuadas. Recuerda herencia, getters y setters, constructores, etc.
 - Realiza un index donde pruebes el funcionamiento. Crea una guerrera y una maga y enfréntalas hasta que una de las dos muera.
-- Por pantalla deberá de salir el resultado de cada tirada que van realizando y la vida que les quedan. Cuando una de las dos muera, muestra quién ha ganado la partida.
+- Por pantalla deberá de salir el resultado de cada tirada que van realizando y la vida que les quedan. Cuando una de las dos muera, muestra quién ha ganado la partida. La salida será algo así:
+![Salida por pantalla](/ejemplo.png)
 
 ### Gallifante extra (solo se programa en las clases, no se prueba en el index)
 - Realiza un extra para cada personaje:
